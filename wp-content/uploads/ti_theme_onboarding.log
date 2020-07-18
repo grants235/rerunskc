@@ -1,0 +1,17 @@
+[09/Jul/2020:00:28:22] (ℹ️): WordPress Instance Info:
+[09/Jul/2020:00:28:22] (ℹ️): Home URL : http://10.0.0.51
+[09/Jul/2020:00:28:22] (ℹ️): Site URL : http://10.0.0.51
+[09/Jul/2020:00:28:22] (ℹ️): WordPress Version : 5.4.2
+[09/Jul/2020:00:28:22] (ℹ️): Onboarding Version : 1.8.3
+[09/Jul/2020:00:28:22] (ℹ️): Multisite : No
+[09/Jul/2020:00:28:22] (ℹ️): Server Info : Apache/2.4.25 (Raspbian)
+[09/Jul/2020:00:28:22] (ℹ️): PHP Version : 7.0.33-0+deb9u8
+[09/Jul/2020:00:28:22] (ℹ️): HTTPS : No
+[09/Jul/2020:00:28:22] (ℹ️): PHP Max Execution Time : 30
+[09/Jul/2020:00:28:22] (ℹ️): PHP Max Input Vars : 1000
+[09/Jul/2020:00:28:22] (ℹ️): Max Upload Size : 2097152
+[09/Jul/2020:00:28:22] (ℹ️): Plugins:
+[09/Jul/2020:00:28:22] (ℹ️): [PLUGIN] Elementor : v2.9.13 (Elementor.com)
+[09/Jul/2020:00:28:22] (ℹ️): [PLUGIN] Gutenberg Blocks and Template Library by Otter : v1.5.5 (ThemeIsle)
+[09/Jul/2020:00:28:22] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.10 (Themeisle)
+[09/Jul/2020:00:28:22] (ℹ️): [PLUGIN] WooCommerce : v4.3.0 (Automattic)
