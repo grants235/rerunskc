@@ -12,7 +12,7 @@
 	<atom:link href="/index.php/shop/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 14 Jul 2020 16:10:55 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 19 Jul 2020 18:07:21 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,23 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.4.2</generator>
 	<item>
+		<title>Grey Chest</title>
+		<link>/index.php/product/grey-chest/</link>
+					<comments>/index.php/product/grey-chest/#respond</comments>
+		
+		<dc:creator><![CDATA[grantshanklin@gmail.com]]></dc:creator>
+		<pubDate>Sun, 19 Jul 2020 18:06:49 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=83</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>/index.php/product/grey-chest/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Farmhouse Chair</title>
 		<link>/index.php/product/farmhouse-chair/</link>
 					<comments>/index.php/product/farmhouse-chair/#respond</comments>
